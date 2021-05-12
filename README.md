@@ -10,7 +10,7 @@
 - ⚡ Fun fact: ... I Love Magic thats why I am doing Btech
 
 
-## Worked With:-
+## Contact Me:-
 [<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/mohit-kumar-profile/)
 <br>
 
