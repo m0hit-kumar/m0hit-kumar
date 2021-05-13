@@ -1,6 +1,6 @@
 ### Hey Buddy 👋
 
- <img align="right" alt="GIF" src="https://github.com/m0hit-kumar/m0hit-kumar/blob/main/let%20me%20code.gif?raw=true" width="400" height="320" />
+ <img align="right" alt="GIF" src="https://github.com/m0hit-kumar/m0hit-kumar/blob/main/coder.gif?raw=false" width="400" height="320" />
 
 
 
