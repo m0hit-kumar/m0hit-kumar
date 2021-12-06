@@ -14,6 +14,10 @@
 [<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/mohit-kumar-profile/)
 <br>
 
+## Profile Vist
+<img src="https://profile-counter.glitch.me/%7Bm0hit-kumar%7D/count.svg">
+<br>
+
 ## Blog
 [BigFootCode](https://www.bigfootcode.ga/)
 
