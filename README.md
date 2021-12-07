@@ -19,7 +19,7 @@
 <br>
 
 ## Blog
-[BigFootCode](https://www.bigfootcode.ga/)
+[BigFootCode](https://bigfootcode.blogspot.com/)
 
 
 
