@@ -1,5 +1,5 @@
 <!-- hi i am mohit kumar -->
-### <h1>Hey Buddy, Mohit Kumar this side <img src="https://github.com/m0hit-kumar/m0hit-kumar/blob/main/Hi.gif" width="40px" style="max-width: 100%;"></h1>
+### <h1>Hey Buddy, mohit kumar this side <img src="https://github.com/m0hit-kumar/m0hit-kumar/blob/main/Hi.gif" width="40px" style="max-width: 100%;"></h1>
 
  <img align="right" alt="GIF" src="https://github.com/m0hit-kumar/m0hit-kumar/blob/main/coder.gif?raw=false" width="400" height="320" />
 
