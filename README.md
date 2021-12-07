@@ -1,4 +1,3 @@
--->
 <h1>Hello there! I'm Mohit Kumar.<img src="https://github.com/m0hit-kumar/m0hit-kumar/blob/main/Hi.gif" width="40px" style="max-width: 100%;"></h1>
 
  <img align="right" alt="GIF" src="https://github.com/m0hit-kumar/m0hit-kumar/blob/main/coder.gif?raw=false" width="400" height="320" />
