@@ -23,8 +23,7 @@
 <br>
 
 ## Blog
- <span><img align="left" src="https://github.com/m0hit-kumar/m0hit-kumar/blob/main/bigfootcode.png"  width="300" height="220"/></span>
-[BigFootCode](https://bigfootcode.blogspot.com/)
+ [<img src="https://github.com/m0hit-kumar/m0hit-kumar/blob/main/bigfootcode.png"  />](https://www.bigfootcode.ga/)
 
 <br>
 
