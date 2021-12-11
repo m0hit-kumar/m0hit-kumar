@@ -15,7 +15,7 @@
 <br>
 
 ## Profile Vist
-<img src="https://profile-counter.glitch.me/%7Bm0hit-kumar%7D/count.svg">
+<img src="https://github.com/m0hit-kumar/m0hit-kumar/blob/main/eye.svg">
 <br>
 
 ## Blog
