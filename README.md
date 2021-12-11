@@ -49,5 +49,5 @@
 
 
 
- <img align="left" alt="GIF" src="https://github.com/m0hit-kumar/m0hit-kumar/blob/main/beat2.gif"  width="300" height="220" hspace="20" />
+ <img align="center" alt="GIF" src="https://github.com/m0hit-kumar/m0hit-kumar/blob/main/beat2.gif"  width="300" height="220" hspace="20" />
  
