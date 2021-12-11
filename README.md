@@ -23,6 +23,7 @@
 <br>
 
 ## Blog
+ <span><img align="left" src="https://github.com/m0hit-kumar/m0hit-kumar/blob/main/bigfootcode.png"  width="300" height="220"  /></span>
 [BigFootCode](https://bigfootcode.blogspot.com/)
 
 <br>
@@ -44,9 +45,9 @@
 
 
 
- <span><img  alt="GIF" src="https://github.com/m0hit-kumar/m0hit-kumar/blob/main/beat2.gif?raw=false" width="400" height="320" /></span>
- <span><img  alt="GIF" src="https://github.com/m0hit-kumar/m0hit-kumar/blob/main/beat2.gif?raw=false" width="400" height="320" /></span>
- <span><img  alt="GIF" src="https://github.com/m0hit-kumar/m0hit-kumar/blob/main/beat2.gif?raw=false" width="400" height="320" /></span>
 
 
 
+
+ <img align="left" alt="GIF" src="https://github.com/m0hit-kumar/m0hit-kumar/blob/main/beat2.gif"  width="300" height="220" hspace="20" />
+ 
