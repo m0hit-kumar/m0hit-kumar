@@ -1,1 +1,46 @@
-<svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 0 24 24" width="24px" fill="#000000"><path d="M0 0h24v24H0V0z" fill="none"/><path d="M12 6c3.79 0 7.17 2.13 8.82 5.5C19.17 14.87 15.79 17 12 17s-7.17-2.13-8.82-5.5C4.83 8.13 8.21 6 12 6m0-2C7 4 2.73 7.11 1 11.5 2.73 15.89 7 19 12 19s9.27-3.11 11-7.5C21.27 7.11 17 4 12 4zm0 5c1.38 0 2.5 1.12 2.5 2.5S13.38 14 12 14s-2.5-1.12-2.5-2.5S10.62 9 12 9m0-2c-2.48 0-4.5 2.02-4.5 4.5S9.52 16 12 16s4.5-2.02 4.5-4.5S14.48 7 12 7z"/></svg>
+<svg width="224px" height="30px" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Count</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+      
+        
+        
+      
+        
+        
+        <rect id="Rectangle" fill="#000000" x="0" y="0.5" width="29" height="29"></rect>
+        <text id="0" font-family="Courier" font-size="24" font-weight="normal" fill="#00FF13">
+            <tspan x="7" y="22">0</tspan>
+        </text>
+
+        <rect id="Rectangle" fill="#000000" x="32" y="0.5" width="29" height="29"></rect>
+        <text id="0" font-family="Courier" font-size="24" font-weight="normal" fill="#00FF13">
+            <tspan x="39" y="22">0</tspan>
+        </text>
+
+        <rect id="Rectangle" fill="#000000" x="64" y="0.5" width="29" height="29"></rect>
+        <text id="0" font-family="Courier" font-size="24" font-weight="normal" fill="#00FF13">
+            <tspan x="71" y="22">0</tspan>
+        </text>
+
+        <rect id="Rectangle" fill="#000000" x="96" y="0.5" width="29" height="29"></rect>
+        <text id="0" font-family="Courier" font-size="24" font-weight="normal" fill="#00FF13">
+            <tspan x="103" y="22">0</tspan>
+        </text>
+
+        <rect id="Rectangle" fill="#000000" x="128" y="0.5" width="29" height="29"></rect>
+        <text id="0" font-family="Courier" font-size="24" font-weight="normal" fill="#00FF13">
+            <tspan x="135" y="22">6</tspan>
+        </text>
+
+        <rect id="Rectangle" fill="#000000" x="160" y="0.5" width="29" height="29"></rect>
+        <text id="0" font-family="Courier" font-size="24" font-weight="normal" fill="#00FF13">
+            <tspan x="167" y="22">8</tspan>
+        </text>
+
+        <rect id="Rectangle" fill="#000000" x="192" y="0.5" width="29" height="29"></rect>
+        <text id="0" font-family="Courier" font-size="24" font-weight="normal" fill="#00FF13">
+            <tspan x="199" y="22">6</tspan>
+        </text>
+
+    </g>
+</svg>
