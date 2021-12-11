@@ -9,10 +9,12 @@
 - 👯 I’m looking to collaborate on ... Open Source
 - ⚡ Fun fact: ... I Love Magic thats why I am doing Btech
 
+<br>
 
 ## Contact Me:-
 [<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/mohit-kumar-profile/)
-<br>
+
+<br><br>
 
 ## Profile Vist
 <img src="https://profile-counter.glitch.me/%7Bm0hit-kumar%7D/count.svg">
@@ -21,7 +23,7 @@
 ## Blog
 [BigFootCode](https://bigfootcode.blogspot.com/)
 
-
+<br>
 
   <summary>:zap: GitHub Stats</summary>
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=m0hit-kumar&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
