@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on ... Mobile App development( In flutter)
 - 🌱 I’m currently learning ...  AR, ML
 - 👯 I’m looking to collaborate on ... Open Source
-- ⚡ Fun fact: ... I Love Magic thats why I am doing Btech
+- ⚡ Fun fact: ... I Love Magic that's why I am doing Btech
 
 <br>
 
@@ -44,9 +44,9 @@
 
 
 
- <span><img  alt="GIF" src="https://github.com/m0hit-kumar/m0hit-kumar/blob/main/beat.gif?raw=false" width="400" height="320" /></span>
- <span><img  alt="GIF" src="https://github.com/m0hit-kumar/m0hit-kumar/blob/main/beat.gif?raw=false" width="400" height="320" /></span>
- <span><img  alt="GIF" src="https://github.com/m0hit-kumar/m0hit-kumar/blob/main/beat.gif?raw=false" width="400" height="320" /></span>
+ <span><img  alt="GIF" src="https://github.com/m0hit-kumar/m0hit-kumar/blob/main/beat2.gif?raw=false" width="400" height="320" /></span>
+ <span><img  alt="GIF" src="https://github.com/m0hit-kumar/m0hit-kumar/blob/main/beat2.gif?raw=false" width="400" height="320" /></span>
+ <span><img  alt="GIF" src="https://github.com/m0hit-kumar/m0hit-kumar/blob/main/beat2.gif?raw=false" width="400" height="320" /></span>
 
 
 
