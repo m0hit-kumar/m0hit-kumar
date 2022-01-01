@@ -26,7 +26,7 @@
 
 ## Profile Vist
 
-<img src="https://profile-counter.glitch.me/%7Bm0hit-kumar%7D/count.svg"><img src="src/eye-blink.gif"/>
+<img src="https://profile-counter.glitch.me/%7Bm0hit-kumar%7D/count.svg"><img src="src/eyeblink.gif"/>
 <br>
 
 ## Blog
