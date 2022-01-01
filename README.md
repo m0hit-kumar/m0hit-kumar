@@ -14,10 +14,14 @@
 
 ## Contact Me:-
 
-[<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="src/linkedin.png" />](https://www.linkedin.com/in/mohit-kumar-profile/)
-[<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="src/instagram.png" />](https://www.instagram.com/mohitkumar.buzz/)
-[<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="src/gmail.png" />](https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=mohitkumar11725@gmail.com
-/)
+<img  href="https://www.linkedin.com/in/mohit-kumar-profile/" align="left" alt="holisitc_developer |  Mohit kumar LinkedIn" width="22px" src="src/linkedin.png" />
+<img href="https://www.instagram.com/mohitkumar.buzz/" align="left" alt="holisitc_developer | Mohit kumar Instagram" width="22px" src="src/instagram.png" />
+<img href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=mohitkumar11725@gmail.com" align="left" alt="holisitc_developer | Mohit kumar Gmail" width="22px" src="src/gmail.png" />
+
+<!-- [<img align="left" alt="holisitc_developer |  Mohit kumar LinkedIn" width="22px" src="src/linkedin.png" />](https://www.linkedin.com/in/mohit-kumar-profile/) -->
+<!-- [<img align="left" alt="holisitc_developer | Mohit kumar Instagram" width="22px" src="src/instagram.png" />](https://www.instagram.com/mohitkumar.buzz/) -->
+<!-- [<img align="left" alt="holisitc_developer | Mohit kumar Gmail" width="22px" src="src/gmail.png" />](https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=mohitkumar11725@gmail.com
+/) -->
 
 <br><br>
 
