@@ -22,16 +22,11 @@
 <a   href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=mohitkumar11725@gmail.com" >
 <img align="left" alt="holisitc_developer | Mohit kumar Gmail" width="22px" src="src/gmail.png" /></a>
 
-<!-- [<img align="left" alt="holisitc_developer |  Mohit kumar LinkedIn" width="22px" src="src/linkedin.png" />](https://www.linkedin.com/in/mohit-kumar-profile/) -->
-<!-- [<img align="left" alt="holisitc_developer | Mohit kumar Instagram" width="22px" src="src/instagram.png" />](https://www.instagram.com/mohitkumar.buzz/) -->
-<!-- [<img align="left" alt="holisitc_developer | Mohit kumar Gmail" width="22px" src="src/gmail.png" />](https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=mohitkumar11725@gmail.com
-/) -->
-
 <br><br>
 
 ## Profile Vist
 
-<img src="https://profile-counter.glitch.me/%7Bm0hit-kumar%7D/count.svg">[<img src="src/eye-blink.gif/>]
+<img src="https://profile-counter.glitch.me/%7Bm0hit-kumar%7D/count.svg"><img src="src/eye-blink.gif"/>
 <br>
 
 ## Blog
