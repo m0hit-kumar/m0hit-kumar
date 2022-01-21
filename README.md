@@ -65,9 +65,9 @@
  
  
 ## GitHub Stats
-
-<img height="195px" width ="400px" src="https://github-readme-stats.vercel.app/api?username=m0hit-kumar&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
- <img  height="195px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=m0hit-kumar&layout=compact">
-
+<p>
+<img  src="https://github-readme-stats.vercel.app/api?username=m0hit-kumar&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+ <img    src="https://github-readme-stats.vercel.app/api/top-langs/?username=m0hit-kumar&layout=compact">
+ </p>
  
 
