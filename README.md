@@ -10,7 +10,7 @@
 - 👯 I’m looking to collaborate on ... Open Source
 - ⚡ Fun fact: ... I Love Magic that's why I am doing Btech
 
-<br>
+<br/>
 
 ## 🤝🏻 &nbsp;Connect with Me
 
@@ -22,7 +22,8 @@
 <a   href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=mohitkumar11725@gmail.com" >
 <img align="left" alt="holisitc_developer | Mohit kumar Gmail" width="22px" src="src/gmail.png" /></a>
 
-<br><br>
+<br/>
+<br/>
 
 ## 👀 &nbsp;Profile Vist
 
@@ -33,19 +34,9 @@
 
 [<img src="src/bigfootcode.png"/>](https://www.bigfootcode.ga/)
 
-<br>
+<br/>
 
 
-<!-- ## Done work on -->
-
-<!-- ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](http://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=ffffff)
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=for-the-badge&logo=html5&logoColor=ffffff)
-![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=for-the-badge&logo=css3)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=ffffff) -->
 
 ## 🛠 &nbsp;Languages and Tools
 <!-- 
@@ -84,16 +75,16 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> 
 </p>
  
- 
+ <br/>
  
 ## ⚙️ &nbsp;GitHub Analytics
-<p>
-<img  align="left" src="https://github-readme-stats.vercel.app/api?username=m0hit-kumar&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
  
- <br>
+ <p align="left">
+<a href="https://github.com/m0hit-kumar">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=m0hit-kumar&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=m0hit-kumar&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
  
- 
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m0hit-kumar&layout=compact">
- </p>
  
 
