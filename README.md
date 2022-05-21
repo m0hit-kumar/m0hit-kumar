@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Fixing+bugs+😅+;Working+on+various+side+projects;Lets+catch+up,+connect+with++me+on+Linkedin)](https://git.io/typing-svg)
 
- <img align="right" alt="GIF" src="src/coder.gif" width="400" height="320" />
+  <img align="right"  alt="GIF" src="src/coder.gif" width="400" height="320" />
 <!--   <img align="right"  src="https://services.github.com/assets/images/hero-octocats.svg" width="400" height="320" /> -->
 
 - 🔭 I’m currently working on ... Mobile App development( In flutter)
