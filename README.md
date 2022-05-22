@@ -1,8 +1,7 @@
 <h1>Hello there! I'm Mohit Kumar.<img src="src/Hi.gif" width="40px" style="max-width: 100%;"></h1>
 
    <img align="right"  alt="GIF" src="src/coder.gif" width="400" height="320" />
-<!--   <img align="right"  src="https://services.github.com/assets/images/hero-octocats.svg" width="400" height="320" /> -->
-
+ 
 - 🔭 I’m currently working on ... Mobile App development( In flutter)
 - 🌱 I’m currently learning ... AR, ML
 - 👯 I’m looking to collaborate on ... Open Source
