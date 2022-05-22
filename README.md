@@ -1,9 +1,7 @@
 <h1>Hello there! I'm Mohit Kumar.<img src="src/Hi.gif" width="40px" style="max-width: 100%;"></h1>
+ 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Fixing+bugs+😅+;Working+on+various+side+projects;Lets+catch+up,+connect+with++me+on+Linkedin)](https://git.io/typing-svg)
- 
-
- 
  <img align="right"  alt="GIF" src="https://user-images.githubusercontent.com/60257288/169688266-0dba71e8-949d-4bc6-a048-0059ef1f994b.jpg" width="400" height="320" />
 
 - 🔭 I’m currently working on ... Mobile App development( In flutter)
@@ -12,23 +10,24 @@
 - ⚡ Fun fact: ... I Love Magic that's why I am doing Btech
 
  
- 
-
+ <br>
 
 ## <img src="https://user-images.githubusercontent.com/60257288/169686247-7ec94964-a707-4733-92f8-bff158cc704b.png" width="2%"/> &nbsp;Download Resume
 
  [<img src="src/Download-Resume-Button.png" width="20%"/>](https://github.com/m0hit-kumar/m0hit-kumar/raw/main/Mohit%20Kumar%20CV.pdf)
  
    
+ <br>  
+ 
 ## 🤝🏻 &nbsp;Connect with Me
 
 <a href="https://www.linkedin.com/in/mohit-kumar-profile/">
-<img   align="left" alt="holisitc_developer |  Mohit kumar LinkedIn" width="22px" src="src/linkedin.png" /></a>
+<img   align="left" alt="holisitc_developer |  Mohit kumar LinkedIn" width="30px" src="src/linkedin.png" /></a>
 
 <a  href="https://www.instagram.com/mohitkumar.buzz/">
-<img href="https://www.instagram.com/mohitkumar.buzz/" align="left" alt="holisitc_developer | Mohit kumar Instagram" width="22px" src="src/instagram.png" /></a>
+<img href="https://www.instagram.com/mohitkumar.buzz/" align="left" alt="holisitc_developer | Mohit kumar Instagram" width="30px" src="src/instagram.png" /></a>
 <a   href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=mohitkumar11725@gmail.com" >
-<img align="left" alt="holisitc_developer | Mohit kumar Gmail" width="22px" src="src/gmail.png" /></a>
+<img align="left" alt="holisitc_developer | Mohit kumar Gmail" width="32px" src="src/gmail.png" /></a>
 
 <br/>
 <br/>
