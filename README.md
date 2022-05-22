@@ -29,7 +29,7 @@
 <a   href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=mohitkumar11725@gmail.com" >
 <img align="left" alt="holisitc_developer | Mohit kumar Gmail" width="32px" src="src/gmail.png" /></a>
 
-<br/>
+<br/><br>
 <br/>
 
 ## 👀 &nbsp;Profile Vist
