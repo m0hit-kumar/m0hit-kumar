@@ -1,8 +1,6 @@
 <h1>Hello there! I'm Mohit Kumar.<img src="src/Hi.gif" width="40px" style="max-width: 100%;"></h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Fixing+bugs+😅+;Working+on+various+side+projects;Lets+catch+up,+connect+with++me+on+Linkedin)](https://git.io/typing-svg)
-
-  <img align="right"  alt="GIF" src="src/coder.gif" width="400" height="320" />
+   <img align="right"  alt="GIF" src="src/coder.gif" width="400" height="320" />
 <!--   <img align="right"  src="https://services.github.com/assets/images/hero-octocats.svg" width="400" height="320" /> -->
 
 - 🔭 I’m currently working on ... Mobile App development( In flutter)
@@ -12,6 +10,13 @@
 
 <br/>
 
+ 
+<!-- <img href="https://github.com/m0hit-kumar/m0hit-kumar/raw/main/Mohit%20Kumar%20CV.pdf" align="right"  alt="GIF" src="src/Download-Resume-Button.png" width="20%/> -->
+  
+  [![Download-Resume-Button](https://user-images.githubusercontent.com/60257288/169685583-3495b4d5-86cb-4d95-9d8e-27739f60cc54.png)](https://github.com/m0hit-kumar/m0hit-kumar/raw/main/Mohit%20Kumar%20CV.pdf)
+
+<!--   <img href="https://github.com/m0hit-kumar/m0hit-kumar/raw/6294474f00ead922287b125b3176bed5f6659302/Mohit%20Kumar%20CV.pdf" align="right"  alt="GIF" src="src/Download-Resume-Button.png" width="20%/>
+   -->
 ## 🤝🏻 &nbsp;Connect with Me
 
 <a href="https://www.linkedin.com/in/mohit-kumar-profile/">
