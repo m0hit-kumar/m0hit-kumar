@@ -8,15 +8,13 @@
 - 👯 I’m looking to collaborate on ... Open Source
 - ⚡ Fun fact: ... I Love Magic that's why I am doing Btech
 
-<br/>
 
+
+## <img src="https://user-images.githubusercontent.com/60257288/169686247-7ec94964-a707-4733-92f8-bff158cc704b.png" width="2%"/> &nbsp;Download Resume
+
+ [<img src="src/Download-Resume-Button.png" width="20%"/>](https://github.com/m0hit-kumar/m0hit-kumar/raw/main/Mohit%20Kumar%20CV.pdf)
  
-<!-- <img href="https://github.com/m0hit-kumar/m0hit-kumar/raw/main/Mohit%20Kumar%20CV.pdf" align="right"  alt="GIF" src="src/Download-Resume-Button.png" width="20%/> -->
-  
-  [![Download-Resume-Button](https://user-images.githubusercontent.com/60257288/169685583-3495b4d5-86cb-4d95-9d8e-27739f60cc54.png)](https://github.com/m0hit-kumar/m0hit-kumar/raw/main/Mohit%20Kumar%20CV.pdf)
-
-<!--   <img href="https://github.com/m0hit-kumar/m0hit-kumar/raw/6294474f00ead922287b125b3176bed5f6659302/Mohit%20Kumar%20CV.pdf" align="right"  alt="GIF" src="src/Download-Resume-Button.png" width="20%/>
-   -->
+   
 ## 🤝🏻 &nbsp;Connect with Me
 
 <a href="https://www.linkedin.com/in/mohit-kumar-profile/">
