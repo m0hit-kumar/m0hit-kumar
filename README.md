@@ -1,4 +1,4 @@
-<h1>Hello there! I'm Mohit Kumar.<img src="src/Hi.gif" width="40px" style="max-width: 100%;"></h1>
+<h1> Hello there! I'm Mohit Kumar.<img src="src/Hi.gif" width="40px" height="40px" style="max-width: 10%;"></h1>
  
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Fixing+bugs+😅+;Working+on+various+side+projects;Lets+catch+up,+connect+with++me+on+Linkedin)](https://git.io/typing-svg)
