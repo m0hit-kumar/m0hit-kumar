@@ -32,6 +32,9 @@
 <br/><br>
 <br/>
 
+
+
+
 ## 👀 &nbsp;Profile Vist
 
 <img src="https://profile-counter.glitch.me/%7Bm0hit-kumar%7D/count.svg">
@@ -93,5 +96,7 @@
 </a>
 </p>
  
- 
+## Badges
+[![@mohitkumar's Holopin board](https://holopin.io/api/user/board?user=mohitkumar)](https://holopin.io/@mohitkumar)
+
 
