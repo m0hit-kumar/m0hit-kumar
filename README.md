@@ -17,7 +17,13 @@
  [<img src="src/Download-Resume-Button.png" width="20%"/>](https://github.com/m0hit-kumar/m0hit-kumar/raw/main/Mohit%20Kumar%20CV.pdf)
  
    
+   
  <br>  
+ 
+ 
+ ## 🤣Joke of the day
+ ![Jokes Card](https://readme-jokes.vercel.app/api)
+
  
 ## 🤝🏻 &nbsp;Connect with Me
 
